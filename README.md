@@ -21,6 +21,9 @@ Write the C Program using Linux Process API - pipe(), fifo()
 
 Testing the C Program for the desired output. 
 
+Name: T. Gayathri
+Reg No: 212223100007
+
 # PROGRAM:
 
 ## C Program that illustrate communication between two process using unnamed pipes using Linux API system calls
